@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { IoMdInformationCircleOutline } from "react-icons/io";
 import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import headerPhoto from './headerVideo.gif';
+import headerPhoto from '../logo.png';
 //import HowItWorksModal from './HowItWorksModal';
 
 const Header = () => {
