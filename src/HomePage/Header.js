@@ -71,7 +71,7 @@ const Header = () => {
         <div className="container" style={{ display: 'flex', justifyContent: 'center' }} >
             <div className="row">
                 <div className="col-sm-12 col-md-6">
-                    <div style={{ fontSize: deviceIsMobile ? '30px' : '50px', lineHeight: '1', paddingBottom: '10px' }}>
+                    <div style={{ fontSize: deviceIsMobile ? '25px' : '50px', lineHeight: '1', paddingBottom: '10px' }}>
                         Your Premier Destination for  <span style={{ color: '#2E1ED0', fontSize: deviceIsMobile ? '60px' : '80px', fontWeight: '600' }}>Professional </span><br /><span style={{ fontSize: deviceIsMobile ? '40px' : '70px', }}>Car Detailing!</span>
                     </div>
                     <div>
