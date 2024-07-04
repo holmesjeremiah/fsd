@@ -26,21 +26,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
-                <div className="col-sm-3" style={{ paddingTop: '25px', }}>
 
-                    <div style={{ paddingLeft: '15px' }}>
-                        <div style={{ borderLeft: '2px solid #2E1ED0', paddingLeft: '10px' }}>
-                            Quick Links
-                        </div>
-                        <div style={{ paddingLeft: '15px' }}>
-
-                            <a href="/" style={{ color: '#41628b !important' }}>Home</a>
-                            <br />
-
-
-                        </div>
-                    </div>
-                </div>
 
 
                 {
@@ -60,7 +46,7 @@ const Footer = () => {
                  */
                 }
 
-                <div className="col-sm-4">
+                <div className="col-sm-8">
 
                     <img src={'logoAlt'} alt="" style={{ height: '100px' }} />
                     <div style={{ paddingLeft: '10px' }}>

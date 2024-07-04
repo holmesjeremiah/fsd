@@ -79,11 +79,11 @@ const Header = () => {
                     </div>
 
                     <div style={{ display: 'flex', alignItems: 'center' }}>
-                        <div>
+                        <a href='sms:19543631256'>
                             <button style={{ margin: '25px 0', backgroundColor: '#2E1ED0', color: 'white', padding: '10px 10px', borderRadius: '20px' }}>
                                 Book Now!
                             </button>
-                        </div>
+                        </a>
                         <div>
 
                         </div>
@@ -110,7 +110,7 @@ const Header = () => {
                 //<HowItWorksModal show={showModal} handleClose={handleCloseModal} />
 
             }
-        </div>
+        </div >
     );
 };
 

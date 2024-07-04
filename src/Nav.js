@@ -24,20 +24,9 @@ const Nav = () => {
                     <a class="navbar-brand" href="/">
                         <img src={logo} alt="" style={{ height: '80px' }} />
                     </a>
-                    <a class='navbar-toggler' data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="" style={{ color: '#2E1ED0', fontSize: '30px' }}><CgMenuRight /></span>
-                    </a>
 
-                    <div class="collapse navbar-collapse" id="navbarToggler">
-                        <div></div>
-                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                            <li class="nav-item text-center">
-                                <a class="nav-link active" aria-current="page" href="/">Home</a>
-                            </li>
 
-                        </ul>
 
-                    </div>
 
                 </div>
             </nav>
