@@ -15,7 +15,11 @@ const Nav = () => {
             <div style={{ backgroundColor: '#ACA6F2', display: 'flex', justifyContent: 'space-around', flexWrap: 'wrap' }}>
 
                 <div style={{ padding: '10px' }}>
-                    <a href="tel:+19549874788" style={{ color: 'black' }}><CiPhone />+1(954)987-4788</a>
+                    <a href="tel:+19549874788" style={{ color: 'black' }}><CiPhone />+1 (954) 987-4788</a>
+
+                </div>
+                <div style={{ padding: '10px' }}>
+                    <a href="tel:+19548122494" style={{ color: 'black' }}><CiPhone />+1 (954) 812-2494</a>
 
                 </div>
             </div>

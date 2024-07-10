@@ -84,6 +84,11 @@ const Header = () => {
                                 Book Now!
                             </button>
                         </a>
+                        <a href='https://g.page/r/CQbsiGLM97VoEAE/review'>
+                            <button style={{ margin: '25px 25px', backgroundColor: '#2E1ED0', color: 'white', padding: '10px 10px', borderRadius: '20px' }}>
+                                Leave a Review!
+                            </button>
+                        </a>
                         <div>
 
                         </div>
