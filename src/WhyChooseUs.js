@@ -41,7 +41,7 @@ const WhyChooseUs = () => {
                     <h1 style={{ fontSize: '50px' }}>Contact Us</h1>
                     <p>Ready to give your car the care it deserves? Contact us today to schedule an appointment!</p>
                     <div style={{ marginTop: '20px' }}>
-                        <p><strong>Phone:</strong> <a href="tel:19543631256" style={{ color: 'white' }}>1-954-363-1256</a></p>
+                        <p><strong>Phone:</strong> <a href="tel:+19549874788">+1 (954) 987-4788</a></p>
                     </div>
 
 
